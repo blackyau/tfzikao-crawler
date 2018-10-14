@@ -18,7 +18,7 @@
 
 或 下载源码 https://github.com/blackyau/tfzikao-crawler/archive/master.zip
 
-下载完毕后在项目文件夹内运行``` python get.py ```
+下载完毕后在项目文件夹内运行 ``` python get.py ``` 后会在运行目录内生成 ```tfzikaoDATA.csv``` ,使用 EXCEL 打开中文会乱码请自行查找解决方法或使用[现代文本编辑器](https://code.visualstudio.com/)打开该文本
 
 ## 说明
 

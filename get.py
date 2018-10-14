@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas
 
 
-# ggkzt 公共课公共课真题|jjxzy 经济类专业|fxlzy 法学类专业|wxlzy 文学类专业|gxlzy 理工类专业|jyl 教育类专业|gllzy 管理类专业|nxlzy 农学类专业|yxlzy 医学类专业|qtl 其它类
+# ggkzt 公共课真题|jjxzy 经济类专业|fxlzy 法学类专业|wxlzy 文学类专业|gxlzy 理工类专业|jyl 教育类专业|gllzy 管理类专业|nxlzy 农学类专业|yxlzy 医学类专业|qtl 其它类
 url1 = 'http://www.tfzikao.com/xlks/lnst/gxlzy/'
 num = 2
 href_data = []
