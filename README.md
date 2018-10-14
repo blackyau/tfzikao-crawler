@@ -22,9 +22,9 @@
 
 ## 说明
 
-默认抓取 [理工类专业](http://www.tfzikao.com/xlks/lnst/gxlzy/) 的历年试题,你可以修改 ```get.py``` 第7行的 url 变量为你需要对应专业的试题
+默认抓取 [理工类专业](http://www.tfzikao.com/xlks/lnst/gxlzy/) 的历年试题,你可以修改 ```get.py``` [第7行](https://github.com/blackyau/tfzikao-crawler/blob/master/get.py#L7)的 url 变量为你需要对应专业的试题
 
-默认抓取前 132 页的内容,你可以修改 ```get.py``` 第31行的数字为你 期望的页数+1 
+默认抓取前 132 页的内容,你可以修改 ```get.py``` [第31行](https://github.com/blackyau/tfzikao-crawler/blob/master/get.py#L31)的数字为你 期望的页数+1 
 
 公共课真题 ```http://www.tfzikao.com/xlks/lnst/ggkzt/```
 
