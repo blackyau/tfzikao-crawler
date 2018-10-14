@@ -20,6 +20,8 @@
 
 下载完毕后在项目文件夹内运行 ``` python get.py ``` 后会在运行目录内生成 ```tfzikaoDATA.csv``` ,使用 EXCEL 打开中文会乱码请自行查找解决方法或使用[现代文本编辑器](https://code.visualstudio.com/)打开该文本
 
+![](https://i.loli.net/2018/10/14/5bc3045c6395f.jpg)
+
 ## 说明
 
 默认抓取 [理工类专业](http://www.tfzikao.com/xlks/lnst/gxlzy/) 的历年试题,你可以修改 ```get.py``` [第7行](https://github.com/blackyau/tfzikao-crawler/blob/master/get.py#L7)的 url 变量为你需要对应专业的试题
