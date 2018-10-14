@@ -1,8 +1,10 @@
 # tfzikao-crawler
 
-四川自考网爬虫,用于爬取历年试题的链接和试题名称
+四川自考网 Python爬虫 ,用于爬取历年试题的链接和试题名称
 
 ## 依赖
+
+[```Python 3```](https://www.python.org/downloads/)
 
 ``` pip install requests```
 
@@ -16,7 +18,7 @@
 
 或 下载源码 https://github.com/blackyau/tfzikao-crawler/archive/master.zip
 
-在项目文件夹内运行``` python get.py ```
+下载完毕后在项目文件夹内运行``` python get.py ```
 
 ## 说明
 
